@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import join from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-join@esm/index.mjs';
+import join from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-join@v0.1.0-esm/index.mjs';
 ```
 
 #### join( x, separator )
@@ -108,7 +108,7 @@ import Complex128Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-complex
 import Complex64Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-complex64@esm/index.mjs';
 import AccessorArray from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-accessor@esm/index.mjs';
 import Float64Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-float64@esm/index.mjs';
-import join from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-join@esm/index.mjs';
+import join from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-join@v0.1.0-esm/index.mjs';
 
 var x = [ 0, 1, 2, 3, 4, 5 ];
 var s = join( x, ',' );
