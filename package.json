@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/array-base-join",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Return a string created by joining array elements using a specified separator.",
   "license": "Apache-2.0",
   "author": {
