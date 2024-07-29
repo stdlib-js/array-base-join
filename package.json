@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/array-base-join",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Return a string created by joining array elements using a specified separator.",
   "license": "Apache-2.0",
   "author": {
@@ -38,22 +38,22 @@
   },
   "dependencies": {
     "@stdlib/array-base-arraylike2object": "^0.2.1",
-    "@stdlib/assert-is-undefined-or-null": "^0.2.1",
+    "@stdlib/assert-is-undefined-or-null": "^0.2.2",
     "@stdlib/types": "^0.3.2"
   },
   "devDependencies": {
     "@stdlib/array-base-accessor": "^0.2.1",
-    "@stdlib/array-base-ones": "^0.2.1",
-    "@stdlib/array-complex128": "^0.2.1",
-    "@stdlib/array-complex64": "^0.2.1",
-    "@stdlib/array-float64": "^0.2.1",
-    "@stdlib/array-int32": "^0.2.1",
-    "@stdlib/assert-is-string": "^0.2.1",
-    "@stdlib/math-base-special-pow": "^0.2.1",
+    "@stdlib/array-base-ones": "^0.2.2",
+    "@stdlib/array-complex128": "^0.3.0",
+    "@stdlib/array-complex64": "^0.3.0",
+    "@stdlib/array-float64": "^0.2.2",
+    "@stdlib/array-int32": "^0.2.2",
+    "@stdlib/assert-is-string": "^0.2.2",
+    "@stdlib/math-base-special-pow": "^0.3.0",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",
     "tap-min": "git+https://github.com/Planeshifter/tap-min.git",
-    "@stdlib/bench-harness": "^0.2.1"
+    "@stdlib/bench-harness": "^0.2.2"
   },
   "engines": {
     "node": ">=0.10.0",
