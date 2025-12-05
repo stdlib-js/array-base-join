@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-12-04)
+## Unreleased (2025-12-05)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`582ef31`](https://github.com/stdlib-js/stdlib/commit/582ef3182ea40031f2bff23af519b1a7e7952d57) - **refactor:** wrap `blas/ext/base/gjoin` _(by Athan Reines)_
 -   [`71af1a0`](https://github.com/stdlib-js/stdlib/commit/71af1a07d17630e96be2349ac6d4ee76db3e1270) - **docs:** fix type _(by Athan Reines)_
 
 </details>

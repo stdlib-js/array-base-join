@@ -37,8 +37,7 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/array-base-arraylike2object": "^0.2.1",
-    "@stdlib/assert-is-undefined-or-null": "^0.2.2",
+    "@stdlib/blas-ext-base-gjoin": "github:stdlib-js/blas-ext-base-gjoin#main",
     "@stdlib/types": "^0.4.3"
   },
   "devDependencies": {
