@@ -38,7 +38,8 @@
   },
   "dependencies": {
     "@stdlib/blas-ext-base-gjoin": "github:stdlib-js/blas-ext-base-gjoin#main",
-    "@stdlib/types": "^0.4.3"
+    "@stdlib/types": "^0.4.3",
+    "@stdlib/error-tools-fmtprodmsg": "^0.2.2"
   },
   "devDependencies": {
     "@stdlib/array-base-accessor": "^0.2.2",
