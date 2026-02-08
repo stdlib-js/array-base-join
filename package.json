@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/array-base-join",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Return a string created by joining array elements using a specified separator.",
   "license": "Apache-2.0",
   "author": {
@@ -37,22 +37,22 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/blas-ext-base-gjoin": "github:stdlib-js/blas-ext-base-gjoin#main",
+    "@stdlib/blas-ext-base-gjoin": "^0.1.0",
     "@stdlib/types": "^0.4.3"
   },
   "devDependencies": {
     "@stdlib/array-base-accessor": "^0.2.2",
-    "@stdlib/array-base-ones": "^0.2.2",
-    "@stdlib/array-complex128": "^0.3.0",
-    "@stdlib/array-complex64": "^0.3.0",
-    "@stdlib/array-float64": "^0.2.2",
-    "@stdlib/array-int32": "^0.2.2",
-    "@stdlib/assert-is-string": "^0.2.2",
-    "@stdlib/math-base-special-pow": "^0.3.0",
+    "@stdlib/array-base-ones": "^0.2.3",
+    "@stdlib/array-complex128": "^0.3.2",
+    "@stdlib/array-complex64": "^0.3.2",
+    "@stdlib/array-float64": "^0.2.3",
+    "@stdlib/array-int32": "^0.2.3",
+    "@stdlib/assert-is-string": "^0.2.3",
+    "@stdlib/math-base-special-pow": "^0.3.1",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",
     "tap-min": "git+https://github.com/Planeshifter/tap-min.git",
-    "@stdlib/bench-harness": "^0.2.2"
+    "@stdlib/bench-harness": "^0.2.3"
   },
   "engines": {
     "node": ">=0.10.0",
